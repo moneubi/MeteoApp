@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeteoApp</string>
+    <string name="cc_show_weather">Afficher les météos</string>
+    <string name="exomind_weather_app">Exomind Weather App</string>
+    <string name="todo">TODO</string>
+    <string name="cc_restart">Recommencer</string>
+    <string name="cc_lbl_waiting">Chargement en cours...</string>
+</resources>
